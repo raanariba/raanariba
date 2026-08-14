@@ -33,11 +33,11 @@ I combine hands-on development with the design and administration of databases, 
 - **Frontend and mobile:** web interfaces with Angular, React, Vite, and Next.js; cross-platform mobile applications with Flutter.
 - **Agile technical work:** Scrum, sprint planning, requirements analysis, and coordination.
 
-## Public labs
+## Lab exercises
 
-Practical exercises for exploring performance, video processing, autoscaling, and service architecture.
+Practical exercises with local-environment deployments for exploring performance, video processing, autoscaling, and service architecture.
 
-| Lab | Description | Technologies |
+| Exercise | Description | Technologies |
 | --- | --- | --- |
 | [Video Server Benchmark](https://github.com/raanariba/benchmarkVideoServer) | Performance and architecture comparison for video-processing services. | NestJS · FastAPI · Python · TypeScript |
 | [Video Server — NestJS](https://github.com/raanariba/videoServerNestjs) | Video-processing and conversion experiment built with NestJS. | NestJS · TypeScript · Node.js |
@@ -77,5 +77,17 @@ Practical exercises for exploring performance, video processing, autoscaling, an
 <div align="center">
 
 <img src="assets/activity-radar.svg" alt="Contribution split for the last 12 months" />
+
+</div>
+
+## Contribution animation
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raanariba/raanariba/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raanariba/raanariba/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution animation" src="https://raw.githubusercontent.com/raanariba/raanariba/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>

@@ -33,11 +33,11 @@ Combino desarrollo práctico con el diseño y administración de bases de datos,
 - **Frontend y móvil:** interfaces web con Angular, React, Vite y Next.js; aplicaciones móviles multiplataforma con Flutter.
 - **Trabajo técnico ágil:** Scrum, planificación de sprints, análisis de requerimientos y coordinación.
 
-## Laboratorios públicos
+## Ejercicios de laboratorio
 
-Ejercicios prácticos para experimentar con rendimiento, procesamiento de video, autoescalado y arquitectura de servicios.
+Ejercicios prácticos con despliegues en entornos locales para experimentar con rendimiento, procesamiento de video, autoescalado y arquitectura de servicios.
 
-| Laboratorio | Descripción | Tecnologías |
+| Ejercicio | Descripción | Tecnologías |
 | --- | --- | --- |
 | [Video Server Benchmark](https://github.com/raanariba/benchmarkVideoServer) | Comparativa de rendimiento y arquitectura para servicios de procesamiento de video. | NestJS · FastAPI · Python · TypeScript |
 | [Video Server — NestJS](https://github.com/raanariba/videoServerNestjs) | Experimento de procesamiento y conversión de video con NestJS. | NestJS · TypeScript · Node.js |
@@ -77,5 +77,17 @@ Ejercicios prácticos para experimentar con rendimiento, procesamiento de video,
 <div align="center">
 
 <img src="assets/activity-radar.svg" alt="Distribución de contribuciones de los últimos 12 meses" />
+
+</div>
+
+## Animación de contribuciones
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raanariba/raanariba/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raanariba/raanariba/output/github-contribution-grid-snake.svg" />
+  <img alt="Animación de contribuciones de GitHub" src="https://raw.githubusercontent.com/raanariba/raanariba/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
