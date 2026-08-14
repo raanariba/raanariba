@@ -43,9 +43,9 @@ Combino desarrollo práctico con el diseño y administración de bases de datos,
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=nestjs,nodejs,ts,python,django,fastapi,java,cpp" alt="NestJS, Node.js, TypeScript, Python, Django, FastAPI, Java y C++" />
+<img src="https://skillicons.dev/icons?i=nestjs,nodejs,ts,python,django,fastapi,java,cpp,dotnet" alt="NestJS, Node.js, TypeScript, Python, Django, FastAPI, Java, C++ y .NET" />
 
-**Experiencia adicional:** `FoxPro` · `Visual .NET` · `Pascal`
+**Experiencia adicional:** `C++` · `Visual FoxPro` · `Visual Basic .NET (VB.NET)` · `Pascal`
 
 **Bases de datos e ingeniería de datos**
 
