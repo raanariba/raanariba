@@ -1,8 +1,10 @@
 <div align="center">
 
-# Hi, I'm Ricardo Ariel Anariba 👋
+# Ricardo Ariel Anariba
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=720&lines=Software+Development+Specialist;Backend+Architecture+%7C+Data+%26+Databases;DevOps%2C+Cloud+%26+Distributed+Systems;Building+scalable+solutions+from+Honduras" alt="Animated professional headlines" />
+**Software Development Specialist | Backend, Data & Cloud**
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=720&lines=Over+a+decade+building+enterprise+software;Backend+Architecture+%7C+Data+%26+Databases;DevOps%2C+Cloud+%26+Distributed+Systems;Building+scalable+solutions+from+Honduras" alt="Animated professional headlines" />
 
 [🇪🇸 Español](README.md) · [🇬🇧 English](README.en.md)
 
