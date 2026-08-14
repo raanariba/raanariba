@@ -17,21 +17,18 @@
 
 ## Perfil
 
-Especialista en desarrollo de software con más de una década de experiencia en sistemas empresariales, desarrollo backend, bases de datos, integración de datos, Business Intelligence, infraestructura y arquitectura de software.
+Especialista en desarrollo de software con más de una década de experiencia en sistemas empresariales, desarrollo backend, plataformas de datos, infraestructura y arquitectura de software.
 
-Combino desarrollo práctico de software con el diseño y administración de plataformas de datos, Data Warehouses, integraciones, reportes y servicios backend. Cuento con más de **6 años de experiencia especializada** en bases de datos, integración de datos y Business Intelligence.
-
-Actualmente me enfoco en arquitectura backend, sistemas distribuidos, infraestructura cloud y servicios escalables con NestJS, Python, MongoDB, Docker, Kubernetes, Rancher Community, RabbitMQ y DigitalOcean.
+Combino desarrollo práctico con el diseño y administración de bases de datos, Data Warehouses, integraciones, reportes y servicios backend. Cuento con más de **6 años de experiencia especializada** en datos, integración y Business Intelligence; actualmente me enfoco en sistemas distribuidos, cloud y servicios escalables.
 
 > Gran parte de mi experiencia profesional previa se desarrolló en repositorios privados o corporativos de GitLab. Este perfil reúne mi portafolio público actual y no representa la totalidad de mis contribuciones profesionales.
 
 ## Especialidades técnicas
 
-- **Arquitectura backend:** APIs REST, microservicios, sistemas modulares y arquitectura dirigida por eventos.
-- **Datos y bases de datos:** SQL Server, MySQL, PostgreSQL, MongoDB, modelado, administración, optimización, ETL, Data Warehouse y BI.
-- **DevOps e infraestructura:** Docker, Kubernetes, Rancher Community, mensajería, despliegue y observabilidad.
-- **Integración de sistemas:** servicios distribuidos, colas, APIs e integraciones empresariales.
-- **Liderazgo técnico ágil:** Scrum, planificación de sprints, análisis de requerimientos y coordinación técnica.
+- **Backend:** APIs REST, microservicios, sistemas modulares y arquitectura dirigida por eventos.
+- **Datos y BI:** administración, modelado y optimización de bases de datos; ETL, Data Warehouse, reportes y analítica.
+- **DevOps:** contenedores, orquestación, Rancher Community, mensajería, despliegue y observabilidad.
+- **Trabajo técnico ágil:** Scrum, planificación de sprints, análisis de requerimientos y coordinación.
 
 ## Proyectos destacados
 
@@ -46,54 +43,23 @@ Actualmente me enfoco en arquitectura backend, sistemas distribuidos, infraestru
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=nestjs" title="NestJS" alt="NestJS" />
-<img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" alt="Node.js" />
-<img src="https://skillicons.dev/icons?i=ts" title="TypeScript" alt="TypeScript" />
-<img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" />
-<img src="https://skillicons.dev/icons?i=django" title="Django" alt="Django" />
-<img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" alt="FastAPI" />
-<img src="https://skillicons.dev/icons?i=java" title="Java" alt="Java" />
+<img src="https://skillicons.dev/icons?i=nestjs,nodejs,ts,python,django,fastapi,java" alt="NestJS, Node.js, TypeScript, Python, Django, FastAPI y Java" />
 
 **Bases de datos e ingeniería de datos**
 
-<img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL" />
-<img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" />
-<img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" alt="MongoDB" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="PostgreSQL, MySQL y MongoDB" />
 
-`SQL Server` · `MySQL` · `PostgreSQL` · `MongoDB` · `CouchDB` · `ETL` · `Data Warehouse` · `SSRS` · `Power BI` · `KNIME` · `Pentaho`
+`SQL Server` · `CouchDB` · `ETL` · `Data Warehouse` · `SSRS` · `Power BI` · `KNIME` · `Pentaho`
 
 **DevOps e infraestructura**
 
-<img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" />
-<img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes" alt="Kubernetes" />
-<img src="https://skillicons.dev/icons?i=nginx" title="Nginx" alt="Nginx" />
-<img src="https://skillicons.dev/icons?i=rabbitmq" title="RabbitMQ" alt="RabbitMQ" />
-<img src="https://skillicons.dev/icons?i=linux" title="Linux" alt="Linux" />
-<img src="https://skillicons.dev/icons?i=bash" title="Bash" alt="Bash" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,rabbitmq,linux,bash" alt="Docker, Kubernetes, Nginx, RabbitMQ, Linux y Bash" />
 
-`Docker` · `Kubernetes` · `Rancher Community` · `Nginx` · `RabbitMQ` · `Linux` · `Bash`
+`Rancher Community`
 
 **Frontend y móvil**
 
-<img src="https://skillicons.dev/icons?i=angular" title="Angular" alt="Angular" />
-<img src="https://skillicons.dev/icons?i=flutter" title="Flutter" alt="Flutter" />
-<img src="https://skillicons.dev/icons?i=dart" title="Dart" alt="Dart" />
-<img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript" />
-<img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML5" />
-<img src="https://skillicons.dev/icons?i=css" title="CSS3" alt="CSS3" />
-<img src="https://skillicons.dev/icons?i=firebase" title="Firebase" alt="Firebase" />
-
-## Experiencia en datos
-
-Más de **6 años trabajando directamente con plataformas de datos empresariales**:
-
-- Administración y modelado de bases de datos: SQL Server, MySQL, PostgreSQL y MongoDB
-- Diseño, desarrollo y optimización de consultas
-- Procesos ETL e integración de datos
-- Arquitectura de Data Warehouse
-- Reportes, analítica y Business Intelligence
-- Calidad, transformación y visualización de datos
-- Indicadores educativos y reportes estadísticos
+<img src="https://skillicons.dev/icons?i=angular,flutter,dart,js,html,css,firebase" alt="Angular, Flutter, Dart, JavaScript, HTML, CSS y Firebase" />
 
 ## Formación
 
@@ -104,11 +70,5 @@ Más de **6 años trabajando directamente con plataformas de datos empresariales
 <div align="center">
 
 <img src="assets/activity-radar.svg" alt="Distribución de contribuciones de los últimos 12 meses" />
-
-</div>
-
-<div align="center">
-
-_Construyendo sistemas confiables, backends escalables y soluciones guiadas por datos._
 
 </div>

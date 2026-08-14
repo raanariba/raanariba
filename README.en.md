@@ -17,21 +17,18 @@
 
 ## Profile
 
-Software Development Specialist with more than a decade of experience in enterprise systems, backend development, databases, data integration, Business Intelligence, infrastructure, and software architecture.
+Software Development Specialist with more than a decade of experience in enterprise systems, backend development, data platforms, infrastructure, and software architecture.
 
-I combine hands-on software development with the design and administration of data platforms, Data Warehouses, integrations, reporting systems, and backend services. I have more than **6 years of specialized experience** in databases, data integration, and Business Intelligence.
-
-My current focus is backend architecture, distributed systems, cloud infrastructure, and scalable services built with NestJS, Python, MongoDB, Docker, Kubernetes, RabbitMQ, and DigitalOcean.
+I combine hands-on development with the design and administration of databases, Data Warehouses, integrations, reporting systems, and backend services. I have more than **6 years of specialized experience** in data, integration, and Business Intelligence; my current focus is distributed systems, cloud infrastructure, and scalable services.
 
 > Much of my previous professional work was developed in private or enterprise GitLab repositories. This profile presents my current public portfolio and does not represent the full history of my professional contributions.
 
 ## Technical specializations
 
-- **Backend architecture:** REST APIs, microservices, modular systems, and event-driven architecture.
-- **Data and databases:** modeling, administration, optimization, ETL, Data Warehousing, and BI.
-- **DevOps and infrastructure:** containers, orchestration, cluster management with Rancher Community, messaging, deployment, and observability.
-- **System integration:** distributed services, queues, APIs, and enterprise integrations.
-- **Agile technical leadership:** Scrum, sprint planning, requirements analysis, and technical coordination.
+- **Backend:** REST APIs, microservices, modular systems, and event-driven architecture.
+- **Data and BI:** database administration, modeling, and optimization; ETL, Data Warehousing, reporting, and analytics.
+- **DevOps:** containers, orchestration, Rancher Community, messaging, deployment, and observability.
+- **Agile technical work:** Scrum, sprint planning, requirements analysis, and coordination.
 
 ## Featured projects
 
@@ -46,54 +43,23 @@ My current focus is backend architecture, distributed systems, cloud infrastruct
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=nestjs" title="NestJS" alt="NestJS" />
-<img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" alt="Node.js" />
-<img src="https://skillicons.dev/icons?i=ts" title="TypeScript" alt="TypeScript" />
-<img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" />
-<img src="https://skillicons.dev/icons?i=django" title="Django" alt="Django" />
-<img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" alt="FastAPI" />
-<img src="https://skillicons.dev/icons?i=java" title="Java" alt="Java" />
+<img src="https://skillicons.dev/icons?i=nestjs,nodejs,ts,python,django,fastapi,java" alt="NestJS, Node.js, TypeScript, Python, Django, FastAPI, and Java" />
 
 **Databases and data engineering**
 
-<img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL" />
-<img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" />
-<img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" alt="MongoDB" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="PostgreSQL, MySQL, and MongoDB" />
 
-`SQL Server` · `MySQL` · `PostgreSQL` · `MongoDB` · `CouchDB` · `ETL` · `Data Warehouse` · `SSRS` · `Power BI` · `KNIME` · `Pentaho`
+`SQL Server` · `CouchDB` · `ETL` · `Data Warehouse` · `SSRS` · `Power BI` · `KNIME` · `Pentaho`
 
 **DevOps and infrastructure**
 
-<img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" />
-<img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes" alt="Kubernetes" />
-<img src="https://skillicons.dev/icons?i=nginx" title="Nginx" alt="Nginx" />
-<img src="https://skillicons.dev/icons?i=rabbitmq" title="RabbitMQ" alt="RabbitMQ" />
-<img src="https://skillicons.dev/icons?i=linux" title="Linux" alt="Linux" />
-<img src="https://skillicons.dev/icons?i=bash" title="Bash" alt="Bash" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,rabbitmq,linux,bash" alt="Docker, Kubernetes, Nginx, RabbitMQ, Linux, and Bash" />
 
-`Docker` · `Kubernetes` · `Rancher Community` · `Nginx` · `RabbitMQ` · `Linux` · `Bash`
+`Rancher Community`
 
 **Frontend and mobile**
 
-<img src="https://skillicons.dev/icons?i=angular" title="Angular" alt="Angular" />
-<img src="https://skillicons.dev/icons?i=flutter" title="Flutter" alt="Flutter" />
-<img src="https://skillicons.dev/icons?i=dart" title="Dart" alt="Dart" />
-<img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript" />
-<img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML5" />
-<img src="https://skillicons.dev/icons?i=css" title="CSS3" alt="CSS3" />
-<img src="https://skillicons.dev/icons?i=firebase" title="Firebase" alt="Firebase" />
-
-## Data experience
-
-More than **6 years working directly with enterprise data platforms**:
-
-- Database administration and modeling: SQL Server, MySQL, PostgreSQL, and MongoDB
-- Query design, development, and optimization
-- ETL processes and data integration
-- Data Warehouse architecture
-- Reporting, analytics, and Business Intelligence
-- Data quality, transformation, and visualization
-- Educational indicators and statistical reporting
+<img src="https://skillicons.dev/icons?i=angular,flutter,dart,js,html,css,firebase" alt="Angular, Flutter, Dart, JavaScript, HTML, CSS, and Firebase" />
 
 ## Training
 
@@ -104,11 +70,5 @@ More than **6 years working directly with enterprise data platforms**:
 <div align="center">
 
 <img src="assets/activity-radar.svg" alt="Contribution split for the last 12 months" />
-
-</div>
-
-<div align="center">
-
-_Building reliable systems, scalable backends, and data-driven solutions._
 
 </div>
