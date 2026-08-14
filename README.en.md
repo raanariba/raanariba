@@ -72,14 +72,6 @@ Practical exercises with local-environment deployments for exploring performance
 
 `MySQL Databases` · `Scrum Master — PROMESYS` · `Business Intelligence — New Horizons` · `Power BI — USAID` · `Web Applications with Django` · `Angular Development — Coursera` · `Kubernetes Workshop` · `DevOps Training` · `BPMN` · `Process Auditing`
 
-## GitHub activity
-
-<div align="center">
-
-<img src="assets/activity-radar.svg" alt="Contribution split for the last 12 months" />
-
-</div>
-
 ## Contribution animation
 
 <div align="center">

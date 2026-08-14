@@ -72,14 +72,6 @@ Ejercicios prácticos con despliegues en entornos locales para experimentar con 
 
 `MySQL Databases` · `Scrum Master — PROMESYS` · `Business Intelligence — New Horizons` · `Power BI — USAID` · `Web Applications with Django` · `Angular Development — Coursera` · `Kubernetes Workshop` · `DevOps Training` · `BPMN` · `Process Auditing`
 
-## Actividad en GitHub
-
-<div align="center">
-
-<img src="assets/activity-radar.svg" alt="Distribución de contribuciones de los últimos 12 meses" />
-
-</div>
-
 ## Animación de contribuciones
 
 <div align="center">
