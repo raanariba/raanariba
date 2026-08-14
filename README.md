@@ -6,10 +6,10 @@
 
 [🇪🇸 Español](README.md) · [🇬🇧 English](README.en.md)
 
-[![GitHub](https://img.shields.io/badge/GitHub-raanariba-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raanariba)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ricardo%20Anariba-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-ariel-anariba-armijo-237426173/)
-[![GitLab](https://img.shields.io/badge/GitLab-raanariba-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/raanariba)
-[![daily.dev](https://img.shields.io/badge/daily.dev-raanariba-0A0A0A?style=for-the-badge&logo=dailydotdev&logoColor=white)](https://daily.dev/raanariba)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raanariba)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-ariel-anariba-armijo-237426173/)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/raanariba)
+[![daily.dev](https://img.shields.io/badge/daily.dev-0A0A0A?style=flat-square&logo=dailydotdev&logoColor=white)](https://daily.dev/raanariba)
 
 **Tegucigalpa, Honduras 🇭🇳**
 
@@ -46,23 +46,42 @@ Actualmente me enfoco en arquitectura backend, sistemas distribuidos, infraestru
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=nestjs,nodejs,ts,python,django,fastapi,java" alt="NestJS, Node.js, TypeScript, Python, Django, FastAPI y Java" />
+<img src="https://skillicons.dev/icons?i=nestjs" title="NestJS" alt="NestJS" />
+<img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" alt="Node.js" />
+<img src="https://skillicons.dev/icons?i=ts" title="TypeScript" alt="TypeScript" />
+<img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" />
+<img src="https://skillicons.dev/icons?i=django" title="Django" alt="Django" />
+<img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" alt="FastAPI" />
+<img src="https://skillicons.dev/icons?i=java" title="Java" alt="Java" />
 
 **Bases de datos e ingeniería de datos**
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="PostgreSQL, MySQL y MongoDB" />
+<img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL" />
+<img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" />
+<img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" alt="MongoDB" />
 
 `SQL Server` · `MySQL` · `PostgreSQL` · `MongoDB` · `CouchDB` · `ETL` · `Data Warehouse` · `SSRS` · `Power BI` · `KNIME` · `Pentaho`
 
 **DevOps e infraestructura**
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,rabbitmq,linux,bash" alt="Docker, Kubernetes, Nginx, RabbitMQ, Linux y Bash" />
+<img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" />
+<img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes" alt="Kubernetes" />
+<img src="https://skillicons.dev/icons?i=nginx" title="Nginx" alt="Nginx" />
+<img src="https://skillicons.dev/icons?i=rabbitmq" title="RabbitMQ" alt="RabbitMQ" />
+<img src="https://skillicons.dev/icons?i=linux" title="Linux" alt="Linux" />
+<img src="https://skillicons.dev/icons?i=bash" title="Bash" alt="Bash" />
 
 `Docker` · `Kubernetes` · `Rancher Community` · `Nginx` · `RabbitMQ` · `Linux` · `Bash`
 
 **Frontend y móvil**
 
-<img src="https://skillicons.dev/icons?i=angular,flutter,dart,js,html,css,firebase" alt="Angular, Flutter, Dart, JavaScript, HTML, CSS y Firebase" />
+<img src="https://skillicons.dev/icons?i=angular" title="Angular" alt="Angular" />
+<img src="https://skillicons.dev/icons?i=flutter" title="Flutter" alt="Flutter" />
+<img src="https://skillicons.dev/icons?i=dart" title="Dart" alt="Dart" />
+<img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript" />
+<img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML5" />
+<img src="https://skillicons.dev/icons?i=css" title="CSS3" alt="CSS3" />
+<img src="https://skillicons.dev/icons?i=firebase" title="Firebase" alt="Firebase" />
 
 ## Experiencia en datos
 
@@ -84,21 +103,9 @@ Más de **6 años trabajando directamente con plataformas de datos empresariales
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=raanariba&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub de Ricardo" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raanariba&layout=compact&hide_border=true" alt="Lenguajes más utilizados" />
-
-<br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=raanariba&hide_border=true" alt="Racha de contribuciones de GitHub" />
+<img src="assets/activity-radar.svg" alt="Distribución de contribuciones de los últimos 12 meses" />
 
 </div>
-
-## Presencia profesional
-
-- [LinkedIn](https://www.linkedin.com/in/ricardo-ariel-anariba-armijo-237426173/)
-- [GitHub](https://github.com/raanariba)
-- [GitLab](https://gitlab.com/raanariba)
-- [daily.dev](https://daily.dev/raanariba)
 
 <div align="center">
 

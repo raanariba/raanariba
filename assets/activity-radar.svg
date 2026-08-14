@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="390" viewBox="0 0 480 390" role="img" aria-label="Contribution split: 96% commits, 4% pull requests, 0% code review, 0% issues">
+  <style>
+    text { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; }
+    .title { font-size: 15px; font-weight: 600; fill: #c9d1d9; }
+    .pct { font-size: 14px; font-weight: 600; fill: #c9d1d9; }
+    .name { font-size: 13px; fill: #8b949e; }
+  </style>
+  <rect width="480" height="390" rx="10" fill="#0d1117"/>
+  <text x="24" y="32" class="title">Activity overview - last 12 months</text>
+  <line x1="240" y1="85" x2="240" y2="305" stroke="#3fb950" stroke-width="1.5"/>
+  <line x1="130" y1="195" x2="350" y2="195" stroke="#3fb950" stroke-width="1.5"/>
+  <polygon points="240.0,195.0 240.0,195.0 240.0,199.6 130.0,195.0" fill="#3fb95066" stroke="#3fb950" stroke-width="1.5"/>
+  <circle cx="240.0" cy="195.0" r="4" fill="#3fb950"/><circle cx="240.0" cy="195.0" r="4" fill="#3fb950"/><circle cx="240.0" cy="199.6" r="4" fill="#3fb950"/><circle cx="130.0" cy="195.0" r="4" fill="#3fb950"/>
+  <text x="240" y="52" text-anchor="middle" class="pct">0%</text><text x="240" y="69" text-anchor="middle" class="name">Code review</text><text x="366" y="191" text-anchor="start" class="pct">0%</text><text x="366" y="208" text-anchor="start" class="name">Issues</text><text x="240" y="333" text-anchor="middle" class="pct">4%</text><text x="240" y="350" text-anchor="middle" class="name">Pull requests</text><text x="114" y="191" text-anchor="end" class="pct">96%</text><text x="114" y="208" text-anchor="end" class="name">Commits</text>
+</svg>
