@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hola, soy Ricardo Ariel Anariba 👋
+# Hola, soy Ricardo Ariel Anariba
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=720&lines=Especialista+en+desarrollo+de+software;Arquitectura+backend+%7C+Datos+y+bases+de+datos;DevOps%2C+cloud+y+sistemas+distribuidos;Construyendo+soluciones+escalables+desde+Honduras" alt="Titulares profesionales animados" />
 
@@ -43,7 +43,9 @@ Combino desarrollo práctico con el diseño y administración de bases de datos,
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=nestjs,nodejs,ts,python,django,fastapi,java" alt="NestJS, Node.js, TypeScript, Python, Django, FastAPI y Java" />
+<img src="https://skillicons.dev/icons?i=nestjs,nodejs,ts,python,django,fastapi,java,cpp" alt="NestJS, Node.js, TypeScript, Python, Django, FastAPI, Java y C++" />
+
+**Experiencia adicional:** `FoxPro` · `Visual .NET` · `Pascal`
 
 **Bases de datos e ingeniería de datos**
 

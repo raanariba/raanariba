@@ -43,7 +43,9 @@ I combine hands-on development with the design and administration of databases, 
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=nestjs,nodejs,ts,python,django,fastapi,java" alt="NestJS, Node.js, TypeScript, Python, Django, FastAPI, and Java" />
+<img src="https://skillicons.dev/icons?i=nestjs,nodejs,ts,python,django,fastapi,java,cpp" alt="NestJS, Node.js, TypeScript, Python, Django, FastAPI, Java, and C++" />
+
+**Additional experience:** `FoxPro` · `Visual .NET` · `Pascal`
 
 **Databases and data engineering**
 
