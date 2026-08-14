@@ -2,7 +2,7 @@
 
 # Ricardo Ariel Anariba
 
-**Especialista en desarrollo de software | Backend, datos y cloud**
+**Especialista Informático**
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=720&lines=M%C3%A1s+de+una+d%C3%A9cada+construyendo+software+empresarial;Arquitectura+backend+%7C+Datos+y+bases+de+datos;DevOps%2C+cloud+y+sistemas+distribuidos;Construyendo+soluciones+escalables+desde+Honduras" alt="Titulares profesionales animados" />
 
@@ -30,11 +30,14 @@ Combino desarrollo práctico con el diseño y administración de bases de datos,
 - **Backend:** APIs REST, microservicios, sistemas modulares y arquitectura dirigida por eventos.
 - **Datos y BI:** administración, modelado y optimización de bases de datos; ETL, Data Warehouse, reportes y analítica.
 - **DevOps:** contenedores, orquestación, Rancher Community, mensajería, despliegue y observabilidad.
+- **Frontend y móvil:** interfaces web con Angular, React, Vite y Next.js; aplicaciones móviles multiplataforma con Flutter.
 - **Trabajo técnico ágil:** Scrum, planificación de sprints, análisis de requerimientos y coordinación.
 
-## Proyectos destacados
+## Laboratorios públicos
 
-| Proyecto | Descripción | Tecnologías |
+Ejercicios prácticos para experimentar con rendimiento, procesamiento de video, autoescalado y arquitectura de servicios.
+
+| Laboratorio | Descripción | Tecnologías |
 | --- | --- | --- |
 | [Video Server Benchmark](https://github.com/raanariba/benchmarkVideoServer) | Comparativa de rendimiento y arquitectura para servicios de procesamiento de video. | NestJS · FastAPI · Python · TypeScript |
 | [Video Server — NestJS](https://github.com/raanariba/videoServerNestjs) | Experimento de procesamiento y conversión de video con NestJS. | NestJS · TypeScript · Node.js |
@@ -63,7 +66,7 @@ Combino desarrollo práctico con el diseño y administración de bases de datos,
 
 **Frontend y móvil**
 
-<img src="https://skillicons.dev/icons?i=angular,flutter,dart,js,html,css,firebase" alt="Angular, Flutter, Dart, JavaScript, HTML, CSS y Firebase" />
+<img src="https://skillicons.dev/icons?i=angular,react,vite,nextjs,flutter,dart,js,html,css,firebase" alt="Angular, React, Vite, Next.js, Flutter, Dart, JavaScript, HTML, CSS y Firebase" />
 
 ## Formación
 

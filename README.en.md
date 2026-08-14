@@ -2,7 +2,7 @@
 
 # Ricardo Ariel Anariba
 
-**Software Development Specialist | Backend, Data & Cloud**
+**IT Specialist**
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=720&lines=Over+a+decade+building+enterprise+software;Backend+Architecture+%7C+Data+%26+Databases;DevOps%2C+Cloud+%26+Distributed+Systems;Building+scalable+solutions+from+Honduras" alt="Animated professional headlines" />
 
@@ -30,11 +30,14 @@ I combine hands-on development with the design and administration of databases, 
 - **Backend:** REST APIs, microservices, modular systems, and event-driven architecture.
 - **Data and BI:** database administration, modeling, and optimization; ETL, Data Warehousing, reporting, and analytics.
 - **DevOps:** containers, orchestration, Rancher Community, messaging, deployment, and observability.
+- **Frontend and mobile:** web interfaces with Angular, React, Vite, and Next.js; cross-platform mobile applications with Flutter.
 - **Agile technical work:** Scrum, sprint planning, requirements analysis, and coordination.
 
-## Featured projects
+## Public labs
 
-| Project | Description | Technologies |
+Practical exercises for exploring performance, video processing, autoscaling, and service architecture.
+
+| Lab | Description | Technologies |
 | --- | --- | --- |
 | [Video Server Benchmark](https://github.com/raanariba/benchmarkVideoServer) | Performance and architecture comparison for video-processing services. | NestJS · FastAPI · Python · TypeScript |
 | [Video Server — NestJS](https://github.com/raanariba/videoServerNestjs) | Video-processing and conversion experiment built with NestJS. | NestJS · TypeScript · Node.js |
@@ -63,7 +66,7 @@ I combine hands-on development with the design and administration of databases, 
 
 **Frontend and mobile**
 
-<img src="https://skillicons.dev/icons?i=angular,flutter,dart,js,html,css,firebase" alt="Angular, Flutter, Dart, JavaScript, HTML, CSS, and Firebase" />
+<img src="https://skillicons.dev/icons?i=angular,react,vite,nextjs,flutter,dart,js,html,css,firebase" alt="Angular, React, Vite, Next.js, Flutter, Dart, JavaScript, HTML, CSS, and Firebase" />
 
 ## Training
 
