@@ -33,7 +33,9 @@ I combine hands-on development with the design and administration of databases, 
 - **Frontend and mobile:** web interfaces with Angular, React, Vite, and Next.js; cross-platform mobile applications with Flutter.
 - **Agile technical work:** Scrum, sprint planning, requirements analysis, and coordination.
 
-## Lab exercises
+## Public repositories
+
+### Lab exercises
 
 Practical exercises with local-environment deployments for exploring performance, video processing, autoscaling, and service architecture.
 
@@ -43,6 +45,12 @@ Practical exercises with local-environment deployments for exploring performance
 | [Video Server — NestJS](https://github.com/raanariba/videoServerNestjs) | Video-processing and conversion experiment built with NestJS. | NestJS · TypeScript · Node.js |
 | [Video Server — FastAPI](https://github.com/raanariba/videoServerFastAPI) | Alternative implementation for comparing HLS video-conversion technologies. | Python · FastAPI |
 | [Kubernetes & KEDA Lab](https://github.com/raanariba/videoServerKedaKubernetesLab) | Event-driven autoscaling and container-orchestration lab. | Kubernetes · KEDA · Docker · RabbitMQ |
+
+### Development infrastructure
+
+| Repository | Description | Technologies |
+| --- | --- | --- |
+| [Local Infrastructure](https://github.com/raanariba/local_infrastructure) | Reusable layer for orchestrating local development environments and shared services. | Docker Compose · Docker · Bash · RabbitMQ · MongoDB · MinIO · Mailpit · Portainer |
 
 ## Technology stack
 

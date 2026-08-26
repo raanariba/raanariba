@@ -33,7 +33,9 @@ Combino desarrollo práctico con el diseño y administración de bases de datos,
 - **Frontend y móvil:** interfaces web con Angular, React, Vite y Next.js; aplicaciones móviles multiplataforma con Flutter.
 - **Trabajo técnico ágil:** Scrum, planificación de sprints, análisis de requerimientos y coordinación.
 
-## Ejercicios de laboratorio
+## Repositorios públicos
+
+### Ejercicios de laboratorio
 
 Ejercicios prácticos con despliegues en entornos locales para experimentar con rendimiento, procesamiento de video, autoescalado y arquitectura de servicios.
 
@@ -43,6 +45,12 @@ Ejercicios prácticos con despliegues en entornos locales para experimentar con 
 | [Video Server — NestJS](https://github.com/raanariba/videoServerNestjs) | Experimento de procesamiento y conversión de video con NestJS. | NestJS · TypeScript · Node.js |
 | [Video Server — FastAPI](https://github.com/raanariba/videoServerFastAPI) | Implementación alternativa para comparar tecnologías de conversión de video a HLS. | Python · FastAPI |
 | [Kubernetes & KEDA Lab](https://github.com/raanariba/videoServerKedaKubernetesLab) | Laboratorio de autoescalado orientado a eventos y orquestación de contenedores. | Kubernetes · KEDA · Docker · RabbitMQ |
+
+### Infraestructura de desarrollo
+
+| Repositorio | Descripción | Tecnologías |
+| --- | --- | --- |
+| [Local Infrastructure](https://github.com/raanariba/local_infrastructure) | Capa reutilizable para orquestar entornos de desarrollo locales y servicios compartidos. | Docker Compose · Docker · Bash · RabbitMQ · MongoDB · MinIO · Mailpit · Portainer |
 
 ## Tecnologías
 
