@@ -19,66 +19,42 @@
 
 ## Perfil
 
-Especialista en desarrollo de software con más de una década de experiencia en sistemas empresariales, desarrollo backend, plataformas de datos, infraestructura y arquitectura de software.
+Especialista en desarrollo de software con **más de una década en sistemas empresariales**. Combino desarrollo, datos e infraestructura con análisis de requerimientos y trabajo ágil.
 
-Combino desarrollo práctico con el diseño y administración de bases de datos, Data Warehouses, integraciones, reportes y servicios backend. Cuento con más de **6 años de experiencia especializada** en datos, integración y Business Intelligence; actualmente me enfoco en sistemas distribuidos, cloud y servicios escalables.
+> Gran parte de mi experiencia está en repositorios privados o corporativos de GitLab; este portafolio público no refleja todas mis contribuciones profesionales.
 
-> Gran parte de mi experiencia profesional previa se desarrolló en repositorios privados o corporativos de GitLab. Este perfil reúne mi portafolio público actual y no representa la totalidad de mis contribuciones profesionales.
+## Tecnologías y experiencia
 
-## Especialidades técnicas
+**Backend, frontend y móvil**
 
-- **Backend:** APIs REST, microservicios, sistemas modulares y arquitectura dirigida por eventos.
-- **Datos y BI:** administración, modelado y optimización de bases de datos; ETL, Data Warehouse, reportes y analítica.
-- **DevOps:** contenedores, orquestación, Rancher Community, mensajería, despliegue y observabilidad.
-- **Frontend y móvil:** interfaces web con Angular, React, Vite y Next.js; aplicaciones móviles multiplataforma con Flutter.
-- **Trabajo técnico ágil:** Scrum, planificación de sprints, análisis de requerimientos y coordinación.
+APIs REST, microservicios y arquitectura dirigida por eventos, con experiencia complementaria en interfaces web y aplicaciones móviles con Flutter.
 
-## Repositorios públicos
+<img src="https://skillicons.dev/icons?i=nestjs,nodejs,ts,python,django,fastapi,java,cpp,dotnet,angular,react,vite,nextjs,flutter,dart,js,html,css,firebase&amp;perline=10" alt="NestJS, Node.js, TypeScript, Python, Django, FastAPI, Java, C++, .NET, Angular, React, Vite, Next.js, Flutter, Dart, JavaScript, HTML, CSS y Firebase" />
 
-### Ejercicios de laboratorio
+Experiencia previa con **Visual FoxPro, VB.NET y Pascal**.
 
-Ejercicios prácticos con despliegues en entornos locales para experimentar con rendimiento, procesamiento de video, autoescalado y arquitectura de servicios.
+**Bases de datos y BI**
 
-| Ejercicio | Descripción | Tecnologías |
-| --- | --- | --- |
-| [Video Server Benchmark](https://github.com/raanariba/benchmarkVideoServer) | Comparativa de rendimiento y arquitectura para servicios de procesamiento de video. | NestJS · FastAPI · Python · TypeScript |
-| [Video Server — NestJS](https://github.com/raanariba/videoServerNestjs) | Experimento de procesamiento y conversión de video con NestJS. | NestJS · TypeScript · Node.js |
-| [Video Server — FastAPI](https://github.com/raanariba/videoServerFastAPI) | Implementación alternativa para comparar tecnologías de conversión de video a HLS. | Python · FastAPI |
-| [Kubernetes & KEDA Lab](https://github.com/raanariba/videoServerKedaKubernetesLab) | Laboratorio de autoescalado orientado a eventos y orquestación de contenedores. | Kubernetes · KEDA · Docker · RabbitMQ |
+Más de **6 años** en datos, integración y BI: administración, modelado, optimización, ETL y Data Warehouse; reportes con SSRS, Power BI, KNIME y Pentaho.
 
-### Infraestructura de desarrollo
-
-| Repositorio | Descripción | Tecnologías |
-| --- | --- | --- |
-| [Local Infrastructure](https://github.com/raanariba/local_infrastructure) | Capa reutilizable para orquestar entornos de desarrollo locales y servicios compartidos. | Docker Compose · Docker · Bash · RabbitMQ · MongoDB · MinIO · Mailpit · Portainer |
-
-## Tecnologías
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=nestjs,nodejs,ts,python,django,fastapi,java,cpp,dotnet" alt="NestJS, Node.js, TypeScript, Python, Django, FastAPI, Java, C++ y .NET" />
-
-**Experiencia adicional:** `C++` · `Visual FoxPro` · `Visual Basic .NET (VB.NET)` · `Pascal`
-
-**Bases de datos e ingeniería de datos**
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="PostgreSQL, MySQL y MongoDB" />
-
-`SQL Server` · `CouchDB` · `ETL` · `Data Warehouse` · `SSRS` · `Power BI` · `KNIME` · `Pentaho`
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="PostgreSQL, MySQL y MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="48" height="48" alt="SQL Server" title="SQL Server" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/couchdb/couchdb-original.svg" width="48" height="48" alt="CouchDB" title="CouchDB" />
+</p>
 
 **DevOps e infraestructura**
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,rabbitmq,linux,bash" alt="Docker, Kubernetes, Nginx, RabbitMQ, Linux y Bash" />
+Contenedores, orquestación con Rancher Community, mensajería, despliegues y observabilidad; enfoque actual en cloud y sistemas distribuidos.
 
-`Rancher Community`
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,rabbitmq,linux,bash,git,githubactions" alt="Docker, Kubernetes, Nginx, RabbitMQ, Linux, Bash, Git y GitHub Actions" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/rancher/rancher-original.svg" width="48" height="48" alt="Rancher" title="Rancher Community" />
+</p>
 
-**Frontend y móvil**
+## Cursos
 
-<img src="https://skillicons.dev/icons?i=angular,react,vite,nextjs,flutter,dart,js,html,css,firebase" alt="Angular, React, Vite, Next.js, Flutter, Dart, JavaScript, HTML, CSS y Firebase" />
-
-## Formación
-
-`MySQL Databases` · `Scrum Master — PROMESYS` · `Business Intelligence — New Horizons` · `Power BI — USAID` · `Web Applications with Django` · `Angular Development — Coursera` · `Kubernetes Workshop` · `DevOps Training` · `BPMN` · `Process Auditing`
+`Scrum Master — PROMESYS` · `Business Intelligence — New Horizons` · `Power BI — USAID` · `Django` · `Angular — Coursera` · `Kubernetes` · `DevOps`
 
 ## Animación de contribuciones
 

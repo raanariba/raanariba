@@ -1,0 +1,13 @@
+# Reglas locales y todo su contenido.
+/reglas/
+/reglasmd/
+
+# Metadatos de descargas de Windows, en cualquier directorio.
+# Separadores admitidos: dos puntos, U+F03A y U+FF1A.
+Zone.Identifier
+*:Zone.Identifier
+*Zone.Identifier
+*：Zone.Identifier
+*Zone.Identifier:$DATA
+*Zone.Identifier$DATA
+*Zone.Identifier：$DATA
