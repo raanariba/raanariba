@@ -52,6 +52,19 @@ Contenedores, orquestación con Rancher Community, mensajería, despliegues y ob
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/rancher/rancher-original.svg" width="48" height="48" alt="Rancher" title="Rancher Community" />
 </p>
 
+## Proyectos destacados
+
+**Repositorios privados y sitios públicos en los que colaboré**
+
+- [SACE](https://sace.se.gob.hn/): Participación profesional en la plataforma nacional para la administración de centros educativos, matrícula, evaluación y promoción estudiantil.
+- [Whole Bible Community](https://wholebiblecommunity.com/): Participación en desarrollo backend y frontend, además de aportes a las aplicaciones móviles con Flutter ([Android](https://play.google.com/store/apps/details?id=com.wholebiblecommunity.app), [iOS](https://apps.apple.com/us/app/whole-bible-community/id6767597237)).
+
+**Repositorios públicos seleccionados**
+
+- [Local Infrastructure](https://github.com/raanariba/local_infrastructure): Infraestructura reutilizable para entornos de desarrollo locales con Docker Compose, automatización y servicios compartidos.
+- [SIATHCPLUS](https://github.com/raanariba/SIATHCPLUS): Proyecto académico en C++ que modela procesos básicos de administración de talento humano.
+- **Servidores de video:** experimentos complementarios de conversión a HLS y comparación de rendimiento: [implementación NestJS](https://github.com/raanariba/videoServerNestjs), [implementación FastAPI](https://github.com/raanariba/videoServerFastAPI) y [benchmark](https://github.com/raanariba/benchmarkVideoServer).
+
 ## Cursos
 
 `Scrum Master — PROMESYS` · `Business Intelligence — New Horizons` · `Power BI — USAID` · `Django` · `Angular — Coursera` · `Kubernetes` · `DevOps`
