@@ -52,6 +52,19 @@ Containers, orchestration with Rancher Community, messaging, deployments, and ob
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/rancher/rancher-original.svg" width="48" height="48" alt="Rancher" title="Rancher Community" />
 </p>
 
+## Featured projects
+
+**Private repositories and public sites I contributed to**
+
+- [SACE](https://sace.se.gob.hn/): Professional participation in Honduras's national platform for school administration, enrollment, assessment, and student promotion.
+- [Whole Bible Community](https://wholebiblecommunity.com/): Contributed to backend and frontend development, as well as to the Flutter mobile apps ([Android](https://play.google.com/store/apps/details?id=com.wholebiblecommunity.app), [iOS](https://apps.apple.com/us/app/whole-bible-community/id6767597237)).
+
+**Selected public repositories**
+
+- [Local Infrastructure](https://github.com/raanariba/local_infrastructure): Reusable infrastructure for local development environments using Docker Compose, automation, and shared services.
+- [SIATHCPLUS](https://github.com/raanariba/SIATHCPLUS): Academic C++ project modeling basic human resources administration processes.
+- **Video servers:** complementary experiments for HLS conversion and performance comparison: [NestJS implementation](https://github.com/raanariba/videoServerNestjs), [FastAPI implementation](https://github.com/raanariba/videoServerFastAPI), and [benchmark](https://github.com/raanariba/benchmarkVideoServer).
+
 ## Courses
 
 `Scrum Master — PROMESYS` · `Business Intelligence — New Horizons` · `Power BI — USAID` · `Django` · `Angular — Coursera` · `Kubernetes` · `DevOps`
