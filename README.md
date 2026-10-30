@@ -8,10 +8,7 @@
 
 [🇪🇸 Español](README.md) · [🇬🇧 English](README.en.md)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raanariba)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-ariel-anariba-armijo-237426173/)
-[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/raanariba)
-[![daily.dev](https://img.shields.io/badge/daily.dev-0A0A0A?style=flat-square&logo=dailydotdev&logoColor=white)](https://daily.dev/raanariba)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raanariba) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-ariel-anariba-armijo-237426173/) [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/raanariba) [![daily.dev](https://img.shields.io/badge/daily.dev-0A0A0A?style=flat-square&logo=dailydotdev&logoColor=white)](https://daily.dev/raanariba)
 
 **Tegucigalpa, Honduras 🇭🇳**
 
@@ -23,13 +20,20 @@ Especialista en desarrollo de software con **más de una década en sistemas emp
 
 > Gran parte de mi experiencia está en repositorios privados o corporativos de GitLab; este portafolio público no refleja todas mis contribuciones profesionales.
 
+## Experiencia profesional
+
+- **Colegio Médico de Honduras — Asistente sénior de TI (actualidad):** trabajo en sistemas financieros y **CMH System**, desarrollando soluciones institucionales y participando en la migración de datos a SAP.
+- **Higher Honduras — Desarrollador web:** desarrollo web y móvil para Whole Bible Community y Dalamar Homes, y despliegues con Docker y Kubernetes.
+- **DERMALOG | REPRIMHSA:** implementación y sincronización de un sistema de gestión fronteriza.
+- **Secretaría de Educación | USINIEH:** desarrollo y administración de sistemas educativos, bases de datos e inteligencia de negocios.
+
 ## Tecnologías y experiencia
 
 **Backend, frontend y móvil**
 
 APIs REST, microservicios y arquitectura dirigida por eventos, con experiencia complementaria en interfaces web y aplicaciones móviles con Flutter.
 
-<img src="https://skillicons.dev/icons?i=nestjs,nodejs,ts,python,django,fastapi,java,cpp,dotnet,angular,react,vite,nextjs,flutter,dart,js,html,css,firebase&amp;perline=10" alt="NestJS, Node.js, TypeScript, Python, Django, FastAPI, Java, C++, .NET, Angular, React, Vite, Next.js, Flutter, Dart, JavaScript, HTML, CSS y Firebase" />
+<img src="https://skillicons.dev/icons?i=php,laravel,nestjs,nodejs,ts,python,django,fastapi,java,cpp,dotnet,angular,react,vite,nextjs,flutter,dart,js,html,css,firebase&amp;perline=11" alt="PHP, Laravel, NestJS, Node.js, TypeScript, Python, Django, FastAPI, Java, C++, .NET, Angular, React, Vite, Next.js, Flutter, Dart, JavaScript, HTML, CSS y Firebase" />
 
 Experiencia previa con **Visual FoxPro, VB.NET y Pascal**.
 
@@ -41,15 +45,22 @@ Más de **6 años** en datos, integración y BI: administración, modelado, opti
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="PostgreSQL, MySQL y MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="48" height="48" alt="SQL Server" title="SQL Server" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/couchdb/couchdb-original.svg" width="48" height="48" alt="CouchDB" title="CouchDB" />
+  <img src="https://cdn.simpleicons.org/mariadb/6AA6B7" width="48" height="48" alt="MariaDB" title="MariaDB" />
+  <img src="https://cdn.simpleicons.org/sap/0FAAFF" width="48" height="48" alt="SAP HANA" title="SAP HANA" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" height="48" alt="Power BI" title="Power BI" />
 </p>
 
 **DevOps e infraestructura**
 
-Contenedores, orquestación con Rancher Community, mensajería, despliegues y observabilidad; enfoque actual en cloud y sistemas distribuidos.
+Contenedores, orquestación con Rancher Community, escalado con KEDA, mensajería, automatización, despliegues y observabilidad; enfoque actual en cloud y sistemas distribuidos.
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,rabbitmq,linux,bash,git,githubactions" alt="Docker, Kubernetes, Nginx, RabbitMQ, Linux, Bash, Git y GitHub Actions" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,rabbitmq,linux,ubuntu,debian,windows,bash,git,gitlab,githubactions&amp;perline=10" alt="Docker, Kubernetes, Nginx, RabbitMQ, Linux, Ubuntu, Debian, Windows, Bash, Git, GitLab y GitHub Actions" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/rancher/rancher-original.svg" width="48" height="48" alt="Rancher" title="Rancher Community" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/centos/centos-original.svg" width="48" height="48" alt="CentOS" title="CentOS" />
+  <img src="https://raw.githubusercontent.com/kedacore/keda/main/images/logos/keda-icon-colour.png" width="48" height="48" alt="KEDA" title="KEDA" />
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" height="48" alt="n8n" title="n8n" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/digitalocean/digitalocean-original.svg" width="48" height="48" alt="DigitalOcean" title="DigitalOcean" />
 </p>
 
 ## Proyectos destacados
@@ -67,7 +78,10 @@ Contenedores, orquestación con Rancher Community, mensajería, despliegues y ob
 
 ## Cursos
 
-`Scrum Master — PROMESYS` · `Business Intelligence — New Horizons` · `Power BI — USAID` · `Django` · `Angular — Coursera` · `Kubernetes` · `DevOps`
+- `Scrum Master — PROMESYS` · `Auditoría en Procesos — PROMESYS` · `Business Intelligence — New Horizons` · `Power BI — USAID` · `Bases de datos MySQL`
+- `Django — PROMESYS` · `Angular — Coursera` · `JavaScript — BI Technology` · `HTML y CSS — New Horizons` · `Introducción al diseño web`
+- `Kubernetes — Higtech Corporation` · `BPMN — Higtech Corporation` · `DevOps`
+- `Tecnologías del emprendimiento — Intel` · `Facilitador de programa Intel`
 
 ## Animación de contribuciones
 
