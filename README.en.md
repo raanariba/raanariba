@@ -1,14 +1,16 @@
 <div align="center">
 
+<img src="assets/header.svg" width="100%" alt="raanariba: Full Stack development, frontend, backend, data, ETL, business intelligence and DevOps" />
+
 # Ricardo Ariel Anariba
 
-**IT Specialist**
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=720&lines=Over+a+decade+building+enterprise+software;Backend+Architecture+%7C+Data+%26+Databases;DevOps%2C+Cloud+%26+Distributed+Systems;Building+scalable+solutions+from+Honduras" alt="Animated professional headlines" />
+**Full Stack Developer · Data Specialist**
 
 [🇪🇸 Español](README.md) · [🇬🇧 English](README.en.md)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raanariba) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-ariel-anariba-armijo-237426173/) [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/raanariba) [![daily.dev](https://img.shields.io/badge/daily.dev-0A0A0A?style=flat-square&logo=dailydotdev&logoColor=white)](https://daily.dev/raanariba)
+
+<img src="https://komarev.com/ghpvc/?username=raanariba&amp;label=Views&amp;color=7c3aed&amp;style=flat-square" alt="Profile view counter" />
 
 **Tegucigalpa, Honduras 🇭🇳**
 
@@ -16,7 +18,7 @@
 
 ## Profile
 
-Software Development Specialist with **over a decade in enterprise systems**. I combine development, data, and infrastructure with requirements analysis and agile practices.
+Full Stack Developer with **over a decade in enterprise systems** and **over 6 years of experience in data, integration, and BI**. I combine frontend and backend development with database modeling, ETL pipelines, and infrastructure, from requirements analysis through deployment.
 
 > Much of my experience is in private or enterprise GitLab repositories; this public portfolio does not reflect all my professional contributions.
 

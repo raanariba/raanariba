@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="240" viewBox="0 0 960 240" fill="none" role="img" aria-labelledby="header-title header-description">
+  <title id="header-title">raanariba — Full Stack · Data · DevOps</title>
+  <desc id="header-description">Frontend, backend, ETL and business intelligence. A navy banner with blue and violet accents and a code symbol.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="960" y2="240" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#172554"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="48" y1="0" x2="912" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+  </defs>
+  <rect width="960" height="240" rx="16" fill="url(#background)"/>
+  <g stroke="#93C5FD" stroke-opacity=".12">
+    <path d="M672 0v240M752 0v240M832 0v240M912 0v240M640 40h320M640 120h320M640 200h320"/>
+    <circle cx="792" cy="120" r="68"/>
+    <circle cx="792" cy="120" r="100"/>
+  </g>
+  <rect x="48" y="42" width="56" height="4" rx="2" fill="url(#accent)"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="48" y="84" fill="#BAE6FD" font-size="15" letter-spacing="3">RAANARIBA / SOFTWARE &amp; DATA</text>
+    <text x="48" y="132" fill="#F8FAFC" font-size="32" font-weight="700">Full Stack · Data · DevOps</text>
+    <text x="48" y="169" fill="#CBD5E1" font-size="18">Frontend · Backend · ETL · Business Intelligence</text>
+  </g>
+  <g stroke="url(#accent)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m770 94-26 26 26 26m44-52 26 26-26 26m-16-60-12 68"/>
+  </g>
+  <rect x="48" y="208" width="864" height="2" rx="1" fill="url(#accent)"/>
+</svg>
