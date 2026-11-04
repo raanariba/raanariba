@@ -1,14 +1,16 @@
 <div align="center">
 
+<img src="assets/header.svg" width="100%" alt="raanariba: desarrollo Full Stack, frontend, backend, datos, ETL, inteligencia de negocios y DevOps" />
+
 # Ricardo Ariel Anariba
 
-**Especialista Informático**
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=720&lines=M%C3%A1s+de+una+d%C3%A9cada+construyendo+software+empresarial;Arquitectura+backend+%7C+Datos+y+bases+de+datos;DevOps%2C+cloud+y+sistemas+distribuidos;Construyendo+soluciones+escalables+desde+Honduras" alt="Titulares profesionales animados" />
+**Desarrollador Full Stack · Especialista en datos**
 
 [🇪🇸 Español](README.md) · [🇬🇧 English](README.en.md)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raanariba) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-ariel-anariba-armijo-237426173/) [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/raanariba) [![daily.dev](https://img.shields.io/badge/daily.dev-0A0A0A?style=flat-square&logo=dailydotdev&logoColor=white)](https://daily.dev/raanariba)
+
+<img src="https://komarev.com/ghpvc/?username=raanariba&amp;label=Visitas&amp;color=7c3aed&amp;style=flat-square" alt="Contador de visitas al perfil" />
 
 **Tegucigalpa, Honduras 🇭🇳**
 
@@ -16,7 +18,7 @@
 
 ## Perfil
 
-Especialista en desarrollo de software con **más de una década en sistemas empresariales**. Combino desarrollo, datos e infraestructura con análisis de requerimientos y trabajo ágil.
+Desarrollador Full Stack con **más de una década en sistemas empresariales** y **más de 6 años de experiencia en datos, integración y BI**. Combino frontend y backend con modelado de bases de datos, procesos ETL e infraestructura, desde el análisis de requerimientos hasta el despliegue.
 
 > Gran parte de mi experiencia está en repositorios privados o corporativos de GitLab; este portafolio público no refleja todas mis contribuciones profesionales.
 
